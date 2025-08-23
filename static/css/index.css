@@ -134,4 +134,9 @@ body {
 }
 
 
-
+.half-size {
+  width: 50%;
+  height: auto; /* keep aspect ratio */
+  display: block;
+  margin: 0 auto; /* center it */
+}

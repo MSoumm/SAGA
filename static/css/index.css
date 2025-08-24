@@ -133,6 +133,11 @@ body {
   font-size: smaller;
 }
 
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+
 
 .half-size {
   width: 50%;
